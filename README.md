@@ -1,4 +1,3 @@
 # hello-world
-Example repository 
 
-I AM WRITING THIS ASAN EXAMPLE TO MYSELF WHAT I CAN DO WITH GIT HUB!
+Welcome to git hub, this is me learning about github
